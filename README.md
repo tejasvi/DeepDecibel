@@ -33,7 +33,7 @@
 <img src="https://github.com/tejasvi/AI_Hackathon/raw/master/genesis/planned.svg?sanitize=true">
 
 
-* The problem scope can be extended to object level reseasoning in images. This will provide more context to the description by using videos along with audio.
+* The problem scope can be extended to object level reasoning in images. This will provide more context to the description by using videos along with audio.
  
 
 ## Implementation
